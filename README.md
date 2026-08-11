@@ -14,6 +14,7 @@ All solution of leetcode solved by me
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -31,4 +32,8 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0190-reverse-bits) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
