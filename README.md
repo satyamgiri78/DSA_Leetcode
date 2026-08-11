@@ -17,6 +17,7 @@ All solution of leetcode solved by me
 | [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,12 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0223-rectangle-area) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
