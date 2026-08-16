@@ -6,6 +6,7 @@ All solution of leetcode solved by me
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0709-to-lower-case) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ All solution of leetcode solved by me
 | ------- |
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -63,4 +65,8 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
