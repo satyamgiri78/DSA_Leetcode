@@ -22,6 +22,7 @@ All solution of leetcode solved by me
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -42,6 +43,7 @@ All solution of leetcode solved by me
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -76,6 +78,7 @@ All solution of leetcode solved by me
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
