@@ -24,6 +24,7 @@ All solution of leetcode solved by me
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -47,6 +48,7 @@ All solution of leetcode solved by me
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -80,6 +82,7 @@ All solution of leetcode solved by me
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
