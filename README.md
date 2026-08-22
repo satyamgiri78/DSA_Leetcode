@@ -28,6 +28,7 @@ All solution of leetcode solved by me
 | [0005-longest-palindromic-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
@@ -52,6 +53,7 @@ All solution of leetcode solved by me
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -76,6 +78,7 @@ All solution of leetcode solved by me
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -106,8 +109,13 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
