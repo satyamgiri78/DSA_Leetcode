@@ -6,6 +6,7 @@ All solution of leetcode solved by me
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0709-to-lower-case) |
@@ -24,6 +25,7 @@ All solution of leetcode solved by me
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -100,4 +102,12 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2643-row-with-maximum-ones) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
