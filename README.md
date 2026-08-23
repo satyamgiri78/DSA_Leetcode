@@ -19,6 +19,7 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0258-add-digits) |
@@ -31,6 +32,7 @@ All solution of leetcode solved by me
 | [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -56,6 +58,7 @@ All solution of leetcode solved by me
 | [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2643-row-with-maximum-ones](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
