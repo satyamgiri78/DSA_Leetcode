@@ -8,6 +8,7 @@ All solution of leetcode solved by me
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -37,6 +38,7 @@ All solution of leetcode solved by me
 | [0189-rotate-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0443-string-compression](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
