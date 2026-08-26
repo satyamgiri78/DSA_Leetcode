@@ -10,6 +10,7 @@ All solution of leetcode solved by me
 | [0151-reverse-words-in-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
@@ -85,6 +86,7 @@ All solution of leetcode solved by me
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
