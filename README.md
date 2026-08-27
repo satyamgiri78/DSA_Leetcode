@@ -22,6 +22,7 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0223-rectangle-area) |
