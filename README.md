@@ -65,6 +65,7 @@ All solution of leetcode solved by me
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2643-row-with-maximum-ones](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Geometry
@@ -129,4 +130,8 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
