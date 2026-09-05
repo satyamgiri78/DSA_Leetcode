@@ -29,6 +29,7 @@ All solution of leetcode solved by me
 | [0223-rectangle-area](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0258-add-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1518-water-bottles](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1518-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0258-add-digits) |
+| [1518-water-bottles](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
