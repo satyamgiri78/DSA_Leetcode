@@ -28,6 +28,7 @@ All solution of leetcode solved by me
 | [0202-happy-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0258-add-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ All solution of leetcode solved by me
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+| [1137-n-th-tribonacci-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -145,4 +147,8 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
