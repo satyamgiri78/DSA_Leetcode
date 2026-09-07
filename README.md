@@ -29,6 +29,7 @@ All solution of leetcode solved by me
 | [0223-rectangle-area](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0258-add-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1518-water-bottles) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ All solution of leetcode solved by me
 | [0485-max-consecutive-ones](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2643-row-with-maximum-ones](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Geometry
