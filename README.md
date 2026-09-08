@@ -14,6 +14,7 @@ All solution of leetcode solved by me
 | [0709-to-lower-case](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2109-adding-spaces-to-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ All solution of leetcode solved by me
 | [0234-palindrome-linked-list](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Floyd's Cycle Finding Algorithm
@@ -78,6 +80,7 @@ All solution of leetcode solved by me
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2109-adding-spaces-to-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2643-row-with-maximum-ones](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Geometry
@@ -90,6 +93,7 @@ All solution of leetcode solved by me
 | [0258-add-digits](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2109-adding-spaces-to-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Number Theory
 |  |
 | ------- |
