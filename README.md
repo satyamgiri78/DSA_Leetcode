@@ -42,6 +42,7 @@ All solution of leetcode solved by me
 | [0011-container-with-most-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -73,6 +74,7 @@ All solution of leetcode solved by me
 | [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -124,6 +126,7 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -164,4 +167,12 @@ All solution of leetcode solved by me
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/satyamgiri78/DSA_Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
